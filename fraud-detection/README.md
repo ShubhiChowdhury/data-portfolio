@@ -1,22 +1,24 @@
-# Data Portfolio — Shubhi Chowdhury
+# Credit Card Fraud Detection
 
-Analytics professional with experience in fintech and retail, 
-currently pursuing MS in Analytics at GeorgiaTech. 
-This portfolio demonstrates end-to-end data engineering 
-and machine learning skills.
+## Problem
+Identify fraudulent credit card transactions from 284,807 
+European cardholder transactions (September 2013).
 
-## Projects
+## Pipeline
+| Layer | What it does |
+|---|---|
+| Bronze | Raw CSV ingested as Delta table |
+| Silver | Typed, cleaned, time + amount buckets added |
+| Gold | Feature engineered, model-ready |
+| Predictions | Scored with Gradient Boosted Trees |
 
-### 1. Credit Card Fraud Detection
-**Tools:** Databricks, PySpark, Delta Lake, XGBoost, Tableau  
-**Dataset:** 284,807 transactions, 0.17% fraud rate  
-**Key finding:** Fraud concentrates in micro/small transactions — 
-fraudsters avoid large amounts to stay undetected.  
-**Pipeline:** Bronze → Silver → Gold medallion architecture  
-[View project →](./fraud-detection/)
+## Key Findings
+- Fraud concentrates in micro (<€10) transactions — 249 cases
+- Large transactions (>€1000) disproportionately safe — only 9 fraud cases
+- Model AUC-ROC: [paste your score here]
 
-## Skills
-- **Data Engineering:** PySpark, Delta Lake, Medallion Architecture
-- **Machine Learning:** XGBoost, Gradient Boosted Trees, AUC-ROC
-- **Visualization:** Tableau, Databricks notebooks
-- **Languages:** Python, SQL
+## Tools
+Databricks Community Edition · PySpark · Delta Lake · Tableau Public
+
+## Dashboard
+[View on Tableau Public →](paste your tableau link here)
