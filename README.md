@@ -1,4 +1,4 @@
-# data-portfolio
+
 # Data Portfolio — Shubhi Chowdhury
 
 Analytics professional with experience in fintech and retail, 
