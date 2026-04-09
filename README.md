@@ -1,22 +1,22 @@
 
-# Data Portfolio — Shubhi Chowdhury
+## Global Tech Layoffs Dashboard (2022–2023)
 
-Analytics professional with experience in fintech and retail, 
-currently pursuing MS in Analytics (OMSA). 
-This portfolio demonstrates end-to-end data engineering 
-and machine learning skills.
+### Tools Used
+- Databricks (ELT Pipeline — Bronze/Silver/Gold)
+- SQL (data transformation)
+- Tableau Public (visualization)
 
-## Projects
+### Dataset
+- Source: Kaggle — Global Layoffs 2022
+- Link: [Kaggle Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
-### 1. Global Tech Layoffs Analysis (2022–2023)
-**Tools:** Databricks, SQL, Tableau Public  
-**Dataset:** Global Layoffs — 845K layoffs across 50+ countries  
-**Key finding:** Post-IPO companies drove 514K layoffs; Jan 2023 was the peak month at 89.7K.  
-**Pipeline:** Bronze → Silver → Gold medallion architecture  
-[View project →](./layoffs/)
+### Dashboard
+<img width="1928" height="1177" alt="image" src="https://github.com/user-attachments/assets/f58952be-defc-4e98-b110-be9228f5a860" />
+- Live Dashboard:https://public.tableau.com/app/profile/shubhi.chowdhury/viz/TheGreatTechCorrection/TheGreatTechCorrection20222023?publish=yes
 
-## Skills
-- **Data Engineering:** SQL, Medallion Architecture (Bronze/Silver/Gold)
-- **Analytics:** KPI design, trend analysis, aggregations
-- **Visualization:** Tableau Public, Databricks notebooks
-- **Languages:** SQL
+### Key Insights
+- 845K total layoffs across 2022–2023
+- Peak: Jan 2023 at 89.7K
+- US accounted for the majority of layoffs
+- Post-IPO companies drove 514K layoffs
+- Retail was the hardest hit industry
