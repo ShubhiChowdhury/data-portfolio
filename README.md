@@ -1,22 +1,39 @@
+# Hi, I'm Shubhi Chowdhury 👋
 
-## Global Tech Layoffs Dashboard (2022–2023)
+Analytics professional with 10+ years of experience in fintech and banking 
+(JP Morgan Chase, Lloyds Banking Group, GE Capital). Currently pursuing an 
+MS in Analytics at Georgia Tech and actively building a modern 
+data portfolio.
 
-### Tools Used
-- Databricks (ELT Pipeline — Bronze/Silver/Gold)
-- SQL (data transformation)
-- Tableau Public (visualization)
+---
 
-### Dataset
-- Source: Kaggle — Global Layoffs 2022
-- Link: [Kaggle Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+## 🧰 Tools & Skills
 
-### Dashboard
-<img width="1928" height="1177" alt="image" src="https://github.com/user-attachments/assets/f58952be-defc-4e98-b110-be9228f5a860" />
-- Live Dashboard:https://public.tableau.com/app/profile/shubhi.chowdhury/viz/TheGreatTechCorrection/TheGreatTechCorrection20222023?publish=yes
+**Data Engineering**
+- Databricks, Delta Lake, Medallion Architecture (Bronze/Silver/Gold)
+- SQL, PySpark
 
-### Key Insights
-- 845K total layoffs across 2022–2023
-- Peak: Jan 2023 at 89.7K
-- US accounted for the majority of layoffs
-- Post-IPO companies drove 514K layoffs
-- Retail was the hardest hit industry
+**Analytics & Visualization**
+- Tableau Public, Power BI
+- Python (pandas, NumPy)
+
+**Currently Learning**
+- Machine Learning (Georgia Tech MSA)
+- Streamlit, Cursor IDE
+
+---
+
+## 📂 Projects
+
+### 1. Global Tech Layoffs Analysis (2022–2023)
+End-to-end ELT pipeline built in Databricks with Tableau dashboard.
+
+**Tools:** Databricks · SQL · Tableau Public  
+**Key finding:** Post-IPO companies drove 514K layoffs; peak was Jan 2023 at 89.7K  
+[View Dashboard →](https://public.tableau.com/app/profile/shubhi.chowdhury)  
+[Project Files →](./global-layoffs/)
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/shubhichowdhury)
