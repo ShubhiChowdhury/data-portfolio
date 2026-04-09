@@ -13,7 +13,7 @@ and machine learning skills.
 **Dataset:** Global Layoffs — 845K layoffs across 50+ countries  
 **Key finding:** Post-IPO companies drove 514K layoffs; Jan 2023 was the peak month at 89.7K.  
 **Pipeline:** Bronze → Silver → Gold medallion architecture  
-[View project →](./global-layoffs/)
+[View project →](./layoffs/)
 
 ## Skills
 - **Data Engineering:** SQL, Medallion Architecture (Bronze/Silver/Gold)
