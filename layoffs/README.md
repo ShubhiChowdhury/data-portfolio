@@ -10,7 +10,7 @@
 - Link: [Kaggle Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
 ### Dashboard
-  <img width="1928" height="1193" alt="image" src="https://github.com/user-attachments/assets/638c25b5-a91c-4637-bc07-109a08f0fe1e" />
+  <img width="1919" height="1187" alt="image" src="https://github.com/user-attachments/assets/73a10987-f464-4c48-8a27-51abc22951c5" />
 - Live Dashboard: https://public.tableau.com/app/profile/shubhi.chowdhury/viz/TheGreatTechCorrection/TheGreatTechCorrection20222023?publish=yes
 
 ### Key Insights
