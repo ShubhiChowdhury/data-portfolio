@@ -30,6 +30,7 @@ End-to-end ELT pipeline built in Databricks with Tableau dashboard.
 
 **Tools:** Databricks · SQL · Tableau Public  
 **Key finding:** Post-IPO companies drove 514K layoffs; peak was Jan 2023 at 89.7K  
+<img width="1920" height="1188" alt="image" src="https://github.com/user-attachments/assets/c6aa65d4-04c5-4a23-b951-2de47f536488" />
 [Dashboard](https://public.tableau.com/app/profile/shubhi.chowdhury/viz/TheGreatTechCorrection/TheGreatTechCorrection20222023?publish=yes)
 [Project Files →](./layoffs/)
 
