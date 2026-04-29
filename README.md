@@ -1,6 +1,6 @@
 # Hi, I'm Shubhi Chowdhury 👋
 
-Analytics professional with 6+ years of experience in fintech and banking 
+Analytics professional with 8+ years of experience in fintech and banking 
 (JP Morgan Chase, Lloyds Banking Group, GE Capital). Currently pursuing an 
 MS in Analytics at Georgia Tech and actively building a modern 
 data portfolio.
